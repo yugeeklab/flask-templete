@@ -1,0 +1,8 @@
+.vscode/
+__pycache__
+migrations/
+.env
+*.sqlite
+*.pyc
+app-mysql-data
+.pytest_cache
